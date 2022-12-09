@@ -1,4 +1,8 @@
 Git Basics
 From Local
+<<<<<<< HEAD
 My changes
 
+=======
+Other Developer
+>>>>>>> main
